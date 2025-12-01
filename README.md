@@ -2,43 +2,45 @@
 ### Data • Cloud • Digital Twins
 
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&text=Hello+World,+I'm+Juliana!&fontSize=35&fontColor=ffffff&animation=twinkling)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:c084fc&height=180&section=header&text=Hello+World,+I'm+Juliana!&fontSize=35&fontColor=ffffff&animation=twinkling)
 
 </div>
 
-<div align="center" style="margin-top: 10px;">
+---
 
-<a href="https://www.linkedin.com/in/julianaballin" target="_blank" 
-   style="
-     display:inline-block;
-     padding: 10px 18px;
-     margin: 4px;
-     border-radius: 999px;
-     background: linear-gradient(135deg,#2563eb,#7c3aed);
-     color:#fff;
-     text-decoration:none;
-     font-weight:600;
-     box-shadow:0 4px 10px rgba(0,0,0,0.18);
-     transition: transform 0.15s ease, box-shadow 0.15s ease;
-   ">
-  LinkedIn
+<div align="center">
+
+<a href="https://www.linkedin.com/in/julianaballin" target="_blank"
+style="
+  display:inline-block;
+  padding: 12px 24px;
+  margin: 6px;
+  border-radius: 12px;
+  background: linear-gradient(135deg,#6d28d9,#a855f7);
+  color:white;
+  font-weight:600;
+  text-decoration:none;
+  box-shadow:0 4px 12px rgba(0,0,0,0.25);
+  transition: transform .2s;
+">
+LinkedIn
 </a>
 
-<a href="mailto:jubs.ballin@gmail.com" 
-   style="
-     display:inline-block;
-     padding: 10px 18px;
-     margin: 4px;
-     border-radius: 999px;
-     background:#0f172a;
-     color:#e5e7eb;
-     text-decoration:none;
-     font-weight:500;
-     box-shadow:0 4px 10px rgba(0,0,0,0.18);
-     transition: transform 0.15s ease, box-shadow 0.15s ease;
-   ">
-  E-mail
+<a href="mailto:jubs.ballin@gmail.com"
+style="
+  display:inline-block;
+  padding: 12px 24px;
+  margin: 6px;
+  border-radius: 12px;
+  background: #4c1d95;
+  color:white;
+  font-weight:600;
+  text-decoration:none;
+  box-shadow:0 4px 12px rgba(0,0,0,0.25);
+  transition: transform .2s;
+">
+E-mail
 </a>
 
 </div>
@@ -47,99 +49,167 @@
 
 ## Sobre mim
 
-Sou estudante de **Sistemas de Informação (UEA)** e formada em **Técnico em Informática (IFAM)**. Atuo com:
+<div style="
+  background: #f3e8ff;
+  padding: 20px;
+  border-radius: 12px;
+  border-left: 6px solid #9333ea;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+">
 
-- **Engenharia de dados** e **pipelines** em nuvem  
-- **Modelagem de dados**, bancos de dados e análise  
-- **Indústria 4.0**, gêmeos digitais e integração de sistemas industriais  
-- **Pesquisa em engenharia de software**, explorando o uso de LLMs na geração de casos de teste
+Sou estudante de **Sistemas de Informação (UEA)** e formada em **Técnico em Informática (IFAM)**.
 
-Gosto de criar soluções que conectam dados, pessoas e sistemas, da camada industrial até dashboards e aplicações analíticas.
+Atuo com:
 
-> Transformando curiosidade em código e dados em soluções.
+- Engenharia de dados e pipelines em nuvem  
+- Modelagem de dados, bancos de dados e análises  
+- Indústria 4.0, gêmeos digitais e integração industrial  
+- Pesquisa em Engenharia de Software com LLMs  
+
+Gosto de criar soluções que conectam dados, pessoas e sistemas — da camada industrial aos dashboards.
+
+</div>
 
 ---
 
 ## 🛠️ Tecnologias
 
-<details>
-  <summary><b>Linguagens</b></summary>
-  <br>
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
+
+<div style="
+  flex:1; min-width:280px;
+  background:#faf5ff;
+  border-left: 5px solid #a855f7;
+  border-radius:10px;
+  padding:15px;
+  box-shadow:0 3px 8px rgba(0,0,0,0.15);">
+
+**Linguagens**
 
 - Python  
 - C/C++  
 - SQL  
 - C#
-</details>
 
-<details>
-  <summary><b>Dados & Cloud</b></summary>
-  <br>
+</div>
 
-- Google Cloud Platform (GCP)  
-- BigQuery · MongoDB · DBeaver  
-- Pipelines · ETL · Modelagem de dados
-</details>
+<div style="
+  flex:1; min-width:280px;
+  background:#faf5ff;
+  border-left: 5px solid #c084fc;
+  border-radius:10px;
+  padding:15px;
+  box-shadow:0 3px 8px rgba(0,0,0,0.15);">
 
-<details>
-  <summary><b>Indústria 4.0 & Integração</b></summary>
-  <br>
+**Dados & Cloud**
+
+- GCP  
+- BigQuery · MongoDB  
+- DBeaver  
+- ETL e modelagem de dados  
+
+</div>
+
+<div style="
+  flex:1; min-width:280px;
+  background:#faf5ff;
+  border-left: 5px solid #d946ef;
+  border-radius:10px;
+  padding:15px;
+  box-shadow:0 3px 8px rgba(0,0,0,0.15);">
+
+**Indústria 4.0 & Integração**
 
 - Digital Twins  
-- Arquitetura RAMI e IDTA  
+- Arquitetura IDTA  
 - OPC UA · MQTT  
-- Docker · GitLab · GitFlow
-</details>
+- Docker · GitLab · GitFlow  
 
-<details>
-  <summary><b>Qualidade de Software & Visualização</b></summary>
-  <br>
+</div>
 
-- Casos de teste · Test smells  
-- Heurísticas de Nielsen  
+<div style="
+  flex:1; min-width:280px;
+  background:#faf5ff;
+  border-left: 5px solid #9333ea;
+  border-radius:10px;
+  padding:15px;
+  box-shadow:0 3px 8px rgba(0,0,0,0.15);">
+
+**Qualidade & Visualização**
+
+- Casos de teste · Test Smells  
+- Nielsen Heuristics  
 - Power BI · Looker Studio · Tableau  
-- Unity (C#) · Arduino e eletrônica básica
-</details>
+- Unity (C#) · Arduino  
+
+</div>
+
+</div>
 
 ---
 
-## 🎓Experiências
+## 🎓 Experiências
 
-<details open>
-  <summary><b>Pesquisa & Engenharia</b></summary>
-  <br>
+<div style="
+  background:#fdf4ff;
+  padding:20px;
+  border-radius:12px;
+  border-left:6px solid #d946ef;
+  box-shadow:0 3px 10px rgba(0,0,0,0.12);
+">
 
-- **Pesquisadora PAIC (UEA)**  
-  Avaliação do uso de LLMs na geração de casos de teste a partir de User Stories, com foco em qualidade, educação e prática em engenharia de software.
+### **Pesquisa & Engenharia**
+- **PAIC (UEA)** – Uso de LLMs na geração de casos de teste  
+- **Engenharia de Dados – Indústria 4.0 (UEA)** – pipelines GCP, OPC UA, MQTT, gêmeos digitais
 
-- **Engenharia de Dados – Indústria 4.0 (UEA)**  
-  Desenvolvimento de pipelines em GCP, BigQuery e MongoDB, integração com OPC UA e MQTT e suporte a gêmeos digitais e soluções industriais inteligentes.
-</details>
+### **Robótica, Jogos & Logística**
+- **STEM Criar** – robôs manipuladores, eletrônica e Arduino  
+- **Ludus Lab** – Unity, testes e UX  
+- **Whirlpool** – SAP, dashboards e automações
 
-<details>
-  <summary><b>Robótica, Jogos & Logística</b></summary>
-  <br>
-
-- **P&D – Academia STEM (Stem Criar)**  
-  Prototipagem de robôs manipuladores, eletrônica, atuadores, sensores e programação em Arduino (C/C++).
-
-- **Ludus Lab**  
-  Desenvolvimento de jogos com Unity e C#, testes estruturados, usabilidade e documentação técnica.
-
-- **Whirlpool**  
-  Dashboards, análise de dados, automações em planilhas, SAP e apoio a processos logísticos.
-</details>
+</div>
 
 ---
 
 ## 🌍 Idiomas
+<div style="
+  background:#f3e8ff;
+  padding:15px;
+  border-radius:12px;
+  border-left:5px solid #a855f7;
+  box-shadow:0 3px 10px rgba(0,0,0,0.10);
+">
 
 - Português — nativo  
-- Inglês — nível profissional  
-- Libras — nível básico
+- Inglês — profissional  
+- Libras — básico  
+
+</div>
 
 ---
 
-## 🧩 Pequeno extra
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulianaBallin&show_icons=true&theme=midnight-purple&hide_border=true" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaBallin&layout=compact&theme=midnight-purple&hide_border=true" />
+
+</div>
+
+---
+
+## 🔧 Pequeno Extra
+
+<div style="
+  background:#fdf4ff;
+  padding:15px;
+  border-radius:10px;
+  border-left:5px solid #c084fc;
+  box-shadow:0 3px 8px rgba(0,0,0,0.12);
+">
 
 Café, planilhas, código e boas histórias de dados.
+
+</div>
