@@ -1,4 +1,4 @@
-queria colocar essa primeira imagem ao lado da secao about me e Technologies & Tools pra ocupar o espaço em branco ao lado direito dessas seções.<h2 align="left">Hi 👋! I'm Juliana Ballin</h2>
+<h2 align="left">Hi 👋! I'm Juliana Ballin</h2>
 
 <div align="center">
 
