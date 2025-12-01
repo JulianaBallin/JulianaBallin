@@ -1,215 +1,81 @@
-# 🌟 Juliana Ballin  
-### Data • Cloud • Digital Twins
+<h2 align="left">Hi 👋! I'm Juliana Ballin, and I'm a Data & Cloud enthusiast from Manaus, Brazil.</h2>
+
+###
 
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:c084fc&height=180&section=header&text=Hello+World,+I'm+Juliana!&fontSize=35&fontColor=ffffff&animation=twinkling)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=JulianaBallin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaBallin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
+
+<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<h3 align="left">⚡ Technologies & Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="gcp logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
+  <img width="12" />
+</div>
+
+###
+
+<h3 align="left">📫 Contact</h3>
+
+<div align="left">
+  <a href="mailto:jubs.ballin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8B5CF6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/julianaballin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=A855F7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=C084FC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"/>
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JulianaBallin/JulianaBallin/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/julianaballin" target="_blank"
-style="
-  display:inline-block;
-  padding: 12px 24px;
-  margin: 6px;
-  border-radius: 12px;
-  background: linear-gradient(135deg,#6d28d9,#a855f7);
-  color:white;
-  font-weight:600;
-  text-decoration:none;
-  box-shadow:0 4px 12px rgba(0,0,0,0.25);
-  transition: transform .2s;
-">
-LinkedIn
-</a>
-
-<a href="mailto:jubs.ballin@gmail.com"
-style="
-  display:inline-block;
-  padding: 12px 24px;
-  margin: 6px;
-  border-radius: 12px;
-  background: #4c1d95;
-  color:white;
-  font-weight:600;
-  text-decoration:none;
-  box-shadow:0 4px 12px rgba(0,0,0,0.25);
-  transition: transform .2s;
-">
-E-mail
-</a>
-
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
----
-
-## Sobre mim
-
-<div style="
-  background: #f3e8ff;
-  padding: 20px;
-  border-radius: 12px;
-  border-left: 6px solid #9333ea;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
-">
-
-Sou estudante de **Sistemas de Informação (UEA)** e formada em **Técnico em Informática (IFAM)**.
-
-Atuo com:
-
-- Engenharia de dados e pipelines em nuvem  
-- Modelagem de dados, bancos de dados e análises  
-- Indústria 4.0, gêmeos digitais e integração industrial  
-- Pesquisa em Engenharia de Software com LLMs  
-
-Gosto de criar soluções que conectam dados, pessoas e sistemas — da camada industrial aos dashboards.
-
-</div>
-
----
-
-## 🛠️ Tecnologias
-
-<div style="display:flex; gap:10px; flex-wrap:wrap;">
-
-<div style="
-  flex:1; min-width:280px;
-  background:#faf5ff;
-  border-left: 5px solid #a855f7;
-  border-radius:10px;
-  padding:15px;
-  box-shadow:0 3px 8px rgba(0,0,0,0.15);">
-
-**Linguagens**
-
-- Python  
-- C/C++  
-- SQL  
-- C#
-
-</div>
-
-<div style="
-  flex:1; min-width:280px;
-  background:#faf5ff;
-  border-left: 5px solid #c084fc;
-  border-radius:10px;
-  padding:15px;
-  box-shadow:0 3px 8px rgba(0,0,0,0.15);">
-
-**Dados & Cloud**
-
-- GCP  
-- BigQuery · MongoDB  
-- DBeaver  
-- ETL e modelagem de dados  
-
-</div>
-
-<div style="
-  flex:1; min-width:280px;
-  background:#faf5ff;
-  border-left: 5px solid #d946ef;
-  border-radius:10px;
-  padding:15px;
-  box-shadow:0 3px 8px rgba(0,0,0,0.15);">
-
-**Indústria 4.0 & Integração**
-
-- Digital Twins  
-- Arquitetura IDTA  
-- OPC UA · MQTT  
-- Docker · GitLab · GitFlow  
-
-</div>
-
-<div style="
-  flex:1; min-width:280px;
-  background:#faf5ff;
-  border-left: 5px solid #9333ea;
-  border-radius:10px;
-  padding:15px;
-  box-shadow:0 3px 8px rgba(0,0,0,0.15);">
-
-**Qualidade & Visualização**
-
-- Casos de teste · Test Smells  
-- Nielsen Heuristics  
-- Power BI · Looker Studio · Tableau  
-- Unity (C#) · Arduino  
-
-</div>
-
-</div>
-
----
-
-## 🎓 Experiências
-
-<div style="
-  background:#fdf4ff;
-  padding:20px;
-  border-radius:12px;
-  border-left:6px solid #d946ef;
-  box-shadow:0 3px 10px rgba(0,0,0,0.12);
-">
-
-### **Pesquisa & Engenharia**
-- **PAIC (UEA)** – Uso de LLMs na geração de casos de teste  
-- **Engenharia de Dados – Indústria 4.0 (UEA)** – pipelines GCP, OPC UA, MQTT, gêmeos digitais
-
-### **Robótica, Jogos & Logística**
-- **STEM Criar** – robôs manipuladores, eletrônica e Arduino  
-- **Ludus Lab** – Unity, testes e UX  
-- **Whirlpool** – SAP, dashboards e automações
-
-</div>
-
----
-
-## 🌍 Idiomas
-<div style="
-  background:#f3e8ff;
-  padding:15px;
-  border-radius:12px;
-  border-left:5px solid #a855f7;
-  box-shadow:0 3px 10px rgba(0,0,0,0.10);
-">
-
-- Português — nativo  
-- Inglês — profissional  
-- Libras — básico  
-
-</div>
-
----
-
-## 📊 GitHub Stats
+###
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulianaBallin&show_icons=true&theme=midnight-purple&hide_border=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaBallin&layout=compact&theme=midnight-purple&hide_border=true" />
-
-</div>
-
----
-
-## 🔧 Pequeno Extra
-
-<div style="
-  background:#fdf4ff;
-  padding:15px;
-  border-radius:10px;
-  border-left:5px solid #c084fc;
-  box-shadow:0 3px 8px rgba(0,0,0,0.12);
-">
-
-Café, planilhas, código e boas histórias de dados.
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JulianaBallin.JulianaBallin&left_color=8B5CF6&right_color=C084FC"  />
 </div>
