@@ -1,3 +1,5 @@
+<h2 align="left">Hi 👋! I'm Juliana Ballin</h2>
+
 <div align="center">
   <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
@@ -7,10 +9,6 @@
 </div>
 
 ---
-
-<h2 align="left">Hi 👋! I'm Juliana Ballin</h2>
-
-###
 
 <h3 align="left">✨ About Me</h3>
 
