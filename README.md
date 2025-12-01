@@ -7,6 +7,7 @@
   
   <img height="160" style="margin: 30px;" src="LINK3.gif" />
 </div>
+</div>
 
 </div>
 
