@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋! I'm Juliana Ballin</h2>
 
 <div align="center">
-  <img height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVzaHplZnVlNmR1aG1zZWxqcDg1MTlyazRrYzBpbHJzNzI1Mm9lZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q6rhF5VFuO71HKmLUQ/giphy.gif" />
+  <img height="160" style="margin: 0 10px 10px 30px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVzaHplZnVlNmR1aG1zZWxqcDg1MTlyazRrYzBpbHJzNzI1Mm9lZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q6rhF5VFuO71HKmLUQ/giphy.gif" />
 
-  <img height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV6eTdnNGg0a2lvZHdjZ3JvczNidnhscGdwYWNrdmh5dW9rbjAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" />
+  <img height="160" style="margin: 0 10px 10px 30px;"  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV6eTdnNGg0a2lvZHdjZ3JvczNidnhscGdwYWNrdmh5dW9rbjAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" />
   
-  <img height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm4zemN1eTdhNmRnajdoa2dnYjg1c3h6bzV0dmxuaXAxaGx4YjcxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RNQ5r7xfVjZEMXZiGO/giphy.gif" />
+  <img height="160" style="margin: 0 10px 10px 10px;"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm4zemN1eTdhNmRnajdoa2dnYjg1c3h6bzV0dmxuaXAxaGx4YjcxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RNQ5r7xfVjZEMXZiGO/giphy.gif" />
 
   <img width="40"/>
 
@@ -80,4 +80,9 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+
+<div align="center" style="margin-top: 100px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZ0bXd1d3RzOGE5N2ZrNXk5aG1vcnQ0aDU2YXAzdzY0MmVzMGxnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UZfBIdKciJXVe/giphy.gif"/>
 </div>
