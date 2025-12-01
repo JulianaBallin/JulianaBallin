@@ -1,14 +1,21 @@
-<h2 align="left">
-  Hi 👋! I'm Juliana Ballin  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JulianaBallin.JulianaBallin&left_color=8B5CF6&right_color=C084FC" align="right"/>
-</h2>
+<div align="center">
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JulianaBallin.JulianaBallin&left_color=8B5CF6&right_color=C084FC" />
+</div>
+
+---
+
+<h2 align="left">Hi 👋! I'm Juliana Ballin</h2>
 
 ###
 
 <h3 align="left">✨ About Me</h3>
 
 <p align="left">
-  I'm passionate about data, cloud computing and industrial integration.  
+  I'm passionate about data, cloud computing and industrial integration.<br>
   I love transforming ideas into solutions that connect systems, people and technology.
 </p>
 
@@ -67,13 +74,5 @@
 <h3 align="left">🐍 Dynamic Snake Contribution Graph</h3>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
