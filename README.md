@@ -1,22 +1,16 @@
 <h2 align="left">Hi 👋! I'm Juliana Ballin</h2>
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:40px;">
 
   <!-- GIF 1 -->
   <img height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV6eTdnNGg0a2lvZHdjZ3JvczNidnhscGdwYWNrdmh5dW9rbjAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" />
 
-  <img width="35"/>
-
-  <!-- GIF do meio -->
-  <div style="display:inline-block;">
+  <!-- GIF do meio + contador -->
+  <div style="display:flex; flex-direction:column; align-items:center;">
     <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-    <br/>
-    <div align="center">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=JulianaBallin.JulianaBallin&left_color=8B5CF6&right_color=C084FC" />
-    </div>
+    
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=JulianaBallin.JulianaBallin&left_color=8B5CF6&right_color=C084FC" />
   </div>
-
-  <img width="35"/>
 
   <!-- GIF 3 -->
   <img height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZnemh6ZDRiYnlxOXBsYm9jNWlncDhvcGlxNG9jcWM3aHV0NDlmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ek3tyjdugkDZlCHP5H/giphy.gif" />
@@ -37,30 +31,14 @@
 <h3 align="left">⚡ Technologies & Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30"/>
-  <img width="12"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/> <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/> <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/> <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/> <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30"/> <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/> <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30"/> <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30"/>
 </div>
 
