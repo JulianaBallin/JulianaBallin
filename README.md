@@ -2,18 +2,15 @@
 
 <table align="center">
   <tr>
-    <!-- GIF 1 -->
     <td align="center" width="200">
       <img height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV6eTdnNGg0a2lvZHdjZ3JvczNidnhscGdwYWNrdmh5dW9rbjAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" />
     </td>
 
-    <!-- GIF 2 + contador -->
     <td align="center" width="200">
       <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /><br>
       <img src="https://visitor-badge.laobi.icu/badge?page_id=JulianaBallin.JulianaBallin&left_color=8B5CF6&right_color=C084FC" />
     </td>
 
-    <!-- GIF 3 -->
     <td align="center" width="200">
       <img height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZnemh6ZDRiYnlxOXBsYm9jNWlncDhvcGlxNG9jcWM3aHV0NDlmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ek3tyjdugkDZlCHP5H/giphy.gif" />
     </td>
