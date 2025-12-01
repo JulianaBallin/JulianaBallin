@@ -1,21 +1,24 @@
 <h2 align="left">Hi 👋! I'm Juliana Ballin</h2>
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:40px;">
+<table align="center">
+  <tr>
+    <!-- GIF 1 -->
+    <td align="center" width="200">
+      <img height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV6eTdnNGg0a2lvZHdjZ3JvczNidnhscGdwYWNrdmh5dW9rbjAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" />
+    </td>
 
-  <!-- GIF 1 -->
-  <img height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV6eTdnNGg0a2lvZHdjZ3JvczNidnhscGdwYWNrdmh5dW9rbjAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" />
+    <!-- GIF 2 + contador -->
+    <td align="center" width="200">
+      <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" /><br>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=JulianaBallin.JulianaBallin&left_color=8B5CF6&right_color=C084FC" />
+    </td>
 
-  <!-- GIF do meio + contador -->
-  <div style="display:flex; flex-direction:column; align-items:center;">
-    <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-    
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=JulianaBallin.JulianaBallin&left_color=8B5CF6&right_color=C084FC" />
-  </div>
-
-  <!-- GIF 3 -->
-  <img height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZnemh6ZDRiYnlxOXBsYm9jNWlncDhvcGlxNG9jcWM3aHV0NDlmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ek3tyjdugkDZlCHP5H/giphy.gif" />
-
-</div>
+    <!-- GIF 3 -->
+    <td align="center" width="200">
+      <img height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZnemh6ZDRiYnlxOXBsYm9jNWlncDhvcGlxNG9jcWM3aHV0NDlmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ek3tyjdugkDZlCHP5H/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -26,7 +29,7 @@
   I love transforming ideas into solutions that connect systems, people and technology.
 </p>
 
-###
+---
 
 <h3 align="left">⚡ Technologies & Tools</h3>
 
@@ -42,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30"/>
 </div>
 
-###
+---
 
 <h3 align="left">📫 Contact</h3>
 
@@ -50,20 +53,18 @@
   <a href="mailto:jubs.ballin@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=8B5CF6&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>
-
   <a href="https://www.linkedin.com/in/julianaballin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=A855F7&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>
-
   <a href="#">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=C084FC&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>
 </div>
 
-###
+---
 
 <h3 align="left">🐍 Dynamic Snake Contribution Graph</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
