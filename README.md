@@ -84,6 +84,6 @@
 </div>
 
 
-<div align="center" style="margin-top: 100px;">
+<div align="left" style="margin-top: 200px;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZ0bXd1d3RzOGE5N2ZrNXk5aG1vcnQ0aDU2YXAzdzY0MmVzMGxnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UZfBIdKciJXVe/giphy.gif"/>
 </div>
