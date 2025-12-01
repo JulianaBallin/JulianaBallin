@@ -1,13 +1,11 @@
 <h2 align="left">Hi 👋! I'm Juliana Ballin</h2>
 
 <div align="center">
-  <img height="160" style="margin: 0 50px 50px 50px; display: inline-block;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVzaHplZnVlNmR1aG1zZWxqcDg1MTlyazRrYzBpbHJzNzI1Mm9lZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q6rhF5VFuO71HKmLUQ/giphy.gif" />
-
-  <img height="160" style="margin: 0 50px 50px 50px; display: inline-block;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV6eTdnNGg0a2lvZHdjZ3JvczNidnhscGdwYWNrdmh5dW9rbjAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" />
+  <img height="160" style="margin: 30px;" src="LINK1.gif" />
   
-  <img height="160" style="margin: 0 50px 50px 50px; display: inline-block;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm4zemN1eTdhNmRnajdoa2dnYjg1c3h6bzV0dmxuaXAxaGx4YjcxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RNQ5r7xfVjZEMXZiGO/giphy.gif" />
-</div>
-
+  <img height="160" style="margin: 30px;" src="LINK2.gif" />
+  
+  <img height="160" style="margin: 30px;" src="LINK3.gif" />
 </div>
 
 </div>
