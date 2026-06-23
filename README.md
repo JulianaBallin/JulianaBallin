@@ -7,12 +7,20 @@
   
   <img height="160" style="margin: 30px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm4zemN1eTdhNmRnajdoa2dnYjg1c3h6bzV0dmxuaXAxaGx4YjcxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RNQ5r7xfVjZEMXZiGO/giphy.gif" />
 </div>
-</div>
-
-</div>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JulianaBallin.JulianaBallin&left_color=8B5CF6&right_color=C084FC" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🌐 Explore My Portfolio</h3>
+  <p>Discover my projects, skills and professional journey.</p>
+
+  <a href="https://julianaballin.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" height="45" alt="Visit My Portfolio"/>
+  </a>
 </div>
 
 ---
@@ -69,7 +77,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=A855F7&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>
 
-  <a href="#">
+  <a href="https://julianaballin.github.io" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=C084FC&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>
 </div>
@@ -81,7 +89,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
-
 
 <div align="right" style="margin-top: 200px;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZ0bXd1d3RzOGE5N2ZrNXk5aG1vcnQ0aDU2YXAzdzY0MmVzMGxnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UZfBIdKciJXVe/giphy.gif"/>
